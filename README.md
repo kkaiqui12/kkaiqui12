@@ -1,6 +1,6 @@
 ## Olá, eu sou Kaiqui Coelho.
 
-
+<div>
 - 🔭 Estou a procura do meu primeiro emprego como Dev Front-End...
 - 🌱 Estudo Vue.JS, Vuetify, VueX, VueRouter, JavaScript, HTML e CSS...
 - 📫 Contate-me no E-mail: kkaiqui.12@gmail.com
@@ -12,3 +12,5 @@
 </div>
 
 ![Snake animation](https://github.com/kkaiqui12/kkaiqui12/blob/output/github-contribution-grid-snake.svg)
+
+</div>
